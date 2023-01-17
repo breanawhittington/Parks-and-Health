@@ -1,5 +1,8 @@
 # Parks and Health Ailments in Texas Counties
-
+***
+**NOTE: This project is still being worked on. It's tenative finish date is February.**
+*This project is for Correlation One Data Science for All - Empowerment*
+***
 ## Introduction
 This project examines the relationship between the availability of parks in different counties and the prevalence of certain health ailments in those counties.
 ### Overview
